@@ -1,0 +1,17 @@
+# Reddit User Persona: u/kojied
+
+Estimated Age: 25–35  
+Location: Likely USA (based on regional references and timezones)  
+Occupation / Interests: Tech enthusiast or developer (frequent posts in r/learnprogramming and r/linux)  
+Personality Traits: Curious, detail-oriented, sometimes sarcastic  
+Hobbies: Programming, gaming, participating in online communities  
+Writing Style: Friendly, informal, often uses memes and emojis
+
+---
+
+Citations:
+
+- [Comment from r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/xxxxx/your_comment_here)  
+- [Post in r/linux](https://www.reddit.com/r/linux/comments/yyyyy/your_post_here)  
+- [Comment in r/AskReddit](https://www.reddit.com/r/AskReddit/comments/zzzzz/your_comment_here)
+
